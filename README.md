@@ -3,7 +3,7 @@ Which Avenger Are You? Quiz Game
 Welcome to the "Which Avenger Are You?" quiz game! This interactive application allows users to discover which Avenger superhero from the Marvel Comics universe best matches their personality.
 
 Features:
-Engaging quiz game to determine your Avenger counterpart
+Engaging quiz game to determine your Avenger counterpart\n
 Multiple-choice questions with various aspects of personality and superhero traits
 Results based on selected answers to identify the corresponding Avenger
 Fun and entertaining experience for fans of the Avengers
